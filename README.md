@@ -1,4 +1,4 @@
-# sph_mobile
+# stock_mobile
 
 A new Flutter project.
 
